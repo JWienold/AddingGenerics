@@ -1,3 +1,3 @@
 # AddingGenerics
 
-Simple program to add T Generics. 
+Simple NetBeans project to add T Generics. 
